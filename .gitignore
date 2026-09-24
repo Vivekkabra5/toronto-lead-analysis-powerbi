@@ -1,0 +1,3 @@
+# Power BI Desktop backup / autosave files
+*.pbix.bak
+~$*.pbix

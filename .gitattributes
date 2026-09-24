@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.png binary
+*.pbix binary
+*.csv text eol=lf
+
+# Helper scripts are not part of the report; keep them out of language stats
+scripts/** linguist-detectable=false
